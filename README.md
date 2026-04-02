@@ -43,5 +43,3 @@ The project integrates LangChain and Large Language Models (LLMs) to generate Cy
 - Improve prompt engineering
 - Support larger knowledge graphs
 
-## Author
-Harsh Raj
