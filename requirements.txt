@@ -1,0 +1,6 @@
+langchain==0.2.14
+langchain-community==0.2.12
+neo4j==5.14.1
+langchain-groq==0.1.10
+python-dotenv==1.0.1
+ipykernel==6.29.5
